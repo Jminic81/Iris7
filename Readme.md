@@ -10,7 +10,7 @@ The dataset first appeared in a 1936 paper by British statistician and geneticis
 
 **Figure 1:  Iris Measurements** (Ref. 3)
 
-![alt text](https://github.com/Jminic81/iris6/blob/master/picirismeas.png)                           
+![alt text](https://github.com/Jminic81/iris7/blob/master/picirismeas.png)                           
 
 Why do this work at all?  Because classification of living organisms yields a way to identify new species, and allow scientists everywhere to communicate, identify relationships, and make advancements in many different areas.  For example, studying constrained movement in certain populations of the roundworm with genus and species name “_Caenorhabditis elegans_” (or _C. elegans_) led to understanding and better treating a very similar expression in humans; muscular distrophy.
 
@@ -18,7 +18,7 @@ In 1758, Carl Linneaus devised the system of classification (Figure 2) that is s
 
 **Figure 2:  Classification System** (Ref. 4)  
 
-![alt text](https://github.com/Jminic81/iris6/blob/master/picclasshierarchy.jpeg)                  
+![alt text](https://github.com/Jminic81/iris7/blob/master/picclasshierarchy.jpeg)                  
 
 Fisher’s work with Iris plants is considered significant due the marked advancement in scientific method that would be leveraged by many to solve similar classification problems.  He is the originator of analysis or variance (ANOVA), a statistical method allowing multiple variables in an experiment. For “iris”, the data require further treatment than simply using average and standard deviation to declare statistical significance.  The most problematic area is highlighted in bold in the table below:
 
@@ -34,7 +34,7 @@ Figure 3 below also illustrates the need for alternate analysis and visualizatio
 
 **Figure 3:  "Iris" Dot Plot** (Ref. 5)     
 
-![alt text](https://github.com/Jminic81/iris6/blob/master/picscatterplot.png)    
+![alt text](https://github.com/Jminic81/iris7/blob/master/picscatterplot.png)    
 
 The Jupyter Notebook file explores codes used by the Kaggle kernel creator (Ref. 1) to show different views of the dataset.  The learning exercise included a few "Tweaks" of some of the analyses.     
 
