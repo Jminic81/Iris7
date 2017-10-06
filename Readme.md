@@ -20,7 +20,7 @@ In 1758, Carl Linneaus devised the system of classification (Figure 2) that is s
 
 ![alt text](https://github.com/Jminic81/iris7/blob/master/picclasshierarchy.jpeg)                  
 
-Fisher’s work with Iris plants is considered significant due the marked advancement in scientific method that would be leveraged by many to solve similar classification problems.  He is the originator of analysis or variance (ANOVA), a statistical method allowing multiple variables in an experiment. For “iris”, the data require further treatment than simply using average and standard deviation to declare statistical significance.  The most problematic area is highlighted in bold in the table below:
+Fisher’s work with Iris plants is considered significant due the marked advancement in scientific method that would be leveraged by many to solve similar classification problems.  He is the originator of analysis or variance (ANOVA), a statistical method allowing multiple variables in an experiment. For “Iris”, the data require further treatment than simply using average and standard deviation to declare statistical significance.  The most problematic area is highlighted in bold in the table below:
 
 **Table 1:  Iris.csv File, Column "SepalLengthCm"**
 
