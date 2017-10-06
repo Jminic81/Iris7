@@ -30,7 +30,7 @@ Fisher’s work with Iris plants is considered significant due the marked advanc
 | _I. versicolor_   |   2.8    |    0.3   |
 | _I. virginica_    |   3.0    |    0.3   | 
 
-Figure 3 below also illustrates the need for alternate analysis and visualization as one species is clearly distinct from the other two which are somewhat co-mingled.  While it may have been tempting to find more attributes to measure to help differentiate between I. versicolor and I. virginica, Fisher applied original statistical analysis to extract the answer from the existing dataset.  
+Figure 3 below also illustrates the need for alternate analysis and visualization as one species is clearly distinct from the other two which are somewhat co-mingled.  While it may have been tempting to find more attributes to measure to help differentiate between _I. versicolor_ and _I. virginica_, Fisher applied original statistical analysis to extract the answer from the existing dataset.  
 
 **Figure 3:  "Iris" Dot Plot** (Ref. 5)     
 
